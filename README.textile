@@ -1,0 +1,9 @@
+List of all street names in Iceland, the postcode for the street, and place (municipiality). Combines two datasets from the Iceland Post Authorities and scratches an itch.
+
+Items:
+pnr = postcode
+gata_nf = street name (nominative case)
+gata_thgf = street name (objective case)
+stadur = place name (municipality)
+
+
